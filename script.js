@@ -16,5 +16,5 @@ return closeSum;
 }
 
 //do not modify below this line
-// module.exports=threeSum;
+module.exports=threeSum;
 console.log(threeSum( [-1, 2, 1, -4], 1))
